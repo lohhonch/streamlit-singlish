@@ -83,8 +83,8 @@ def mapping_demo():
                 pdk.Deck(
                     map_style=None,
                     initial_view_state={
-                        "latitude": 37.76,
-                        "longitude": -122.4,
+                        "latitude": 1.290270,
+                        "longitude": 103.851959,
                         "zoom": 11,
                         "pitch": 50,
                     },
